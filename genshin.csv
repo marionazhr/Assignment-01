@@ -1,0 +1,84 @@
+character_name,rarity,region,vision,weapon_type
+Albedo,5,Mondstadt,Geo,Sword
+Alhaitham,5,Sumeru,Dendro,Sword
+Amber,4,Mondstadt,Pyro,Bow
+Arataki Itto,5,Inazuma,Geo,Claymore
+Baizhu,5,Liyue,Dendro,Catalyst
+Barbara,4,Mondstadt,Hydro,Catalyst
+Beidou,4,Liyue,Electro,Claymore
+Bennett,4,Mondstadt,Pyro,Sword
+Candace,4,Sumeru,Hydro,Polearm
+Charlotte,4,Fontaine,Cryo,Catalyst
+Chongyun,4,Liyue,Cryo,Claymore
+Collei,4,Sumeru,Dendro,Bow
+Cyno,5,Sumeru,Electro,Polearm
+Dehya,5,Sumeru,Pyro,Claymore
+Diluc,5,Mondstadt,Pyro,Claymore
+Diona,4,Mondstadt,Cryo,Bow
+Dori,4,Sumeru,Electro,Claymore
+Eula,5,Mondstadt,Cryo,Claymore
+Faruzan,4,Sumeru,Anemo,Bow
+Fischl,4,Mondstadt,Electro,Bow
+Freminet,4,Fontaine,Cryo,Claymore
+Furina,5,Fontaine,Hydro,Sword
+Ganyu,5,Liyue,Cryo,Bow
+Gorou,4,Inazuma,Geo,Bow
+Hu Tao,5,Liyue,Pyro,Polearm
+Jean,5,Mondstadt,Anemo,Sword
+Kaedehara Kazuha,5,Inazuma,Anemo,Sword
+Kaeya,4,Mondstadt,Cryo,Sword
+Kamisato Ayaka,5,Inazuma,Cryo,Sword
+Kamisato Ayato,5,Inazuma,Hydro,Sword
+Kaveh,4,Sumeru,Dendro,Claymore
+Keqing,5,Liyue,Electro,Sword
+Kirara,4,Inazuma,Dendro,Sword
+Klee,5,Mondstadt,Pyro,Catalyst
+Kujou Sara,4,Inazuma,Electro,Bow
+Kuki Shinobu,4,Inazuma,Electro,Sword
+Layla,4,Sumeru,Cryo,Sword
+Lisa,4,Mondstadt,Electro,Catalyst
+Lynette,4,Fontaine,Anemo,Sword
+Lyney,5,Fontaine,Pyro,Bow
+Mika,4,Mondstadt,Cryo,Polearm
+Mona,5,Mondstadt,Hydro,Catalyst
+Nahida,5,Sumeru,Dendro,Catalyst
+Nilou,5,Sumeru,Hydro,Sword
+Ningguang,4,Liyue,Geo,Catalyst
+Noelle,4,Mondstadt,Geo,Claymore
+Neuvillette,5,Fontaine,Hydro,Catalyst
+Qiqi,5,Liyue,Cryo,Sword
+Raiden Shogun,5,Inazuma,Electro,Polearm
+Razor,4,Mondstadt,Electro,Claymore
+Rosaria,4,Mondstadt,Cryo,Polearm
+Sangonomiya Kokomi,5,Inazuma,Hydro,Catalyst
+Sayu,4,Inazuma,Anemo,Claymore
+Shenhe,5,Liyue,Cryo,Polearm
+Shikanoin Heizou,4,Inazuma,Anemo,Catalyst
+Sucrose,4,Mondstadt,Anemo,Catalyst
+Tartaglia,5,Snezhnaya,Hydro,Bow
+Thoma,4,Inazuma,Pyro,Polearm
+Tighnari,5,Sumeru,Dendro,Bow
+"Traveler (Aether, Anemo)",5,NA,Anemo,Sword
+"Traveler (Lumine, Anemo)",5,NA,Anemo,Sword
+"Traveler (Aether, Geo)",5,NA,Geo,Sword
+"Traveler (Lumine, Geo)",5,NA,Geo,Sword
+"Traveler (Aether, Electro)",5,NA,Electro,Sword
+"Traveler (Lumine, Electro)",5,NA,Electro,Sword
+"Traveler (Aether, Dendro)",5,NA,Dendro,Sword
+"Traveler (Lumine, Dendro)",5,NA,Dendro,Sword
+"Traveler (Aether, Hydro)",5,NA,Hydro,Sword
+"Traveler (Lumine, Hydro)",5,NA,Hydro,Sword
+Venti,5,Mondstadt,Anemo,Bow
+Wanderer,5,Sumeru,Anemo,Catalyst
+Wriothesley,5,Fontaine,Cryo,Catalyst
+Xiangling,4,Liyue,Pyro,Polearm
+Xiao,5,Liyue,Anemo,Polearm
+Xingqiu,4,Liyue,Hydro,Sword
+Xinyan,4,Liyue,Pyro,Claymore
+Yae Miko,5,Inazuma,Electro,Catalyst
+Yanfei,4,Liyue,Pyro,Catalyst
+Yaoyao,4,Liyue,Dendro,Polearm
+Yelan,5,Liyue,Hydro,Bow
+Yoimiya,5,Inazuma,Pyro,Bow
+Yun Jin,4,Liyue,Geo,Polearm
+Zhongli,5,Liyue,Geo,Polearm
